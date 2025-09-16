@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(#d4a7a7 10%, #a5e0ec 35%, #ffffff 65%);
+  font-family:sans-serif;}
+.profile{ 
+    display: flex;
+    font-family:sans-serif;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 90px
+}
+.profileimage {
+    width: 200px;}
+.profile h2 {
+    margin-top: 20px;
+     color:#ffffff ;
+    font-family: "Poppins", sans-serif;}
+.profile h4 { 
+    transform: translatey(-10px);
+    color:#ffffff ;
+font-family: sans-serif;}
+.biodata{
+    background: linear-gradient(#fff 30%, #a5e0ec 50%, #ffffff28 100%);
+    padding-top: 30px;
+font-family: sans-serif;}
+.row {margin-top:20px}
+.footer{
+    background: linear-gradient(#ffffffbe 30%, #a5e0ec7a 50%, #d4a7a7ab 100%);
+}
